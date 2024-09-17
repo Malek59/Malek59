@@ -13,14 +13,14 @@ A developer currently working on innovative projects at [NINGEN](https://github.
 ## 📊 Combined GitHub Stats
 
 ### Personal Stats
-![](https://github-readme-stats.vercel.app/api?username=Malek59&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Malek59&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Malek59&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek59&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek59&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### Company Stats
-![](https://github-readme-stats.vercel.app/api?username=malek-ningen&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=malek-ningen&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=malek-ningen&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malek-ningen&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=malek-ningen&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=Malek59&limit=5&theme=dark&combine_all_yearly_contributions=true)

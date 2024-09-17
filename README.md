@@ -1,6 +1,7 @@
 
 # Hi, I'm Malek 👋
-A developer currently working on innovative projects at a company. I'm also in the process of completing my master's degree in IoT.
+A developer currently working on innovative projects at [My Company](https://github.com/malek-ningen). I'm also completing my master's degree in IoT.
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Unique CRM/ERP Website - I'm currently working for a company on a unique and unusual project that combines elements of CRM and ERP systems. It's a fascinating mix that I'm excited about!<br>👯 I’m looking to collaborate on<br>IoT Projects - I'm interested in collaborating on Internet of Things (IoT) projects. If you have an innovative IoT idea or project, let's connect!<br>DevOps - I'm also keen on DevOps and would love to collaborate on projects in this area.<br>🤝 I’m looking for help with<br>IoT Challenges - I’m open to help with various IoT-related challenges. If you have expertise or resources in this area, your input would be valuable.<br>🌱 I’m currently learning<br>Programming on Raspberry Pi - I’m currently focusing on programming for Raspberry Pi. If you have insights or resources related to this, I'd appreciate any advice or tips!<br>💬 Ask me about<br>Python - I’m well-versed in Python and can help with any questions or projects involving this language.<br>Django - I have experience with Django and can offer guidance on web development with this framework.<br>Feel free to reach out if you have any questions or want to connect!
 
